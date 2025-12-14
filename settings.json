@@ -1,0 +1,20 @@
+{
+    "x": 1245,
+    "y": 751,
+    "scale": 0.33,
+    "flipped": true,
+    "reminders": [
+        {
+            "text": "Hydrate!",
+            "interval": 1800
+        },
+        {
+            "text": "Posture Check",
+            "interval": 900
+        },
+        {
+            "text": "Hello!",
+            "interval": 60
+        }
+    ]
+}
